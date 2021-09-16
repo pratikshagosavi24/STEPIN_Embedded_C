@@ -6,7 +6,9 @@ The heat control system is basically used to control the temperature inside a ca
 
 ### CI and Code Quality
 
-|https://www.code-inspector.com/project/28865/score/svg|https://www.code-inspector.com/project/28865/status/svg|Codacy|
+![code_quality_score](https://www.code-inspector.com/project/28865/score/svg)
+![code_quality_score](https://www.code-inspector.com/project/28865/status/svg)
+
 
 
 ### Simulation
