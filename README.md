@@ -6,10 +6,7 @@ The heat control system is basically used to control the temperature inside a ca
 
 ### CI and Code Quality
 
-|Build|Cppcheck|Codacy|
-|:--:|:--:|:--:|
-|[![Compile-Linux](https://github.com/259881/Embedded-sys/actions/workflows/Compile.yml/badge.svg)](https://github.com/259881/Embedded-sys/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/259881/Embedded-sys/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/259881/Embedded-sys/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c91f2537b80d4e63963a289d345607a4)](https://www.codacy.com/gh/259881/Embedded-sys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=259881/Embedded-sys&amp;utm_campaign=Badge_Grade)|
-
+|https://www.code-inspector.com/project/28865/score/svg|https://www.code-inspector.com/project/28865/status/svg|Codacy|
 
 
 ### Simulation
