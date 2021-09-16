@@ -1,4 +1,13 @@
-//main application
+/**
+ * @file project_main.c
+ * @author Pratiksha Ramesh Gosavi
+ * @brief Main File
+ * @version 0.1
+ * @date 2021-09-16
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include <avr/io.h>
 #include<util/delay.h>
 #include "Activity_1.h"

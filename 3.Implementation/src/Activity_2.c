@@ -1,3 +1,13 @@
+/**
+ * @file Activity_2.c
+ * @author Pratiksha Ramesh Gosavi
+ * @brief Analog to digital conversion
+ * @version 0.1
+ * @date 2021-09-16
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include <avr/io.h>
 #include "Activity_2.h"
 
